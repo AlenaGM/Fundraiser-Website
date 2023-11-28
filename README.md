@@ -13,5 +13,5 @@ Responsive landing page for a fundraiser.
 ## Result: 
 http://www.juliapopova.ru/
 
-## Thanks to all Contributors !
+## Thanks to all contributors !
 [![Contributors](https://contrib.rocks/image?repo=Gulkovva19/Julia-Popova)](https://github.com/AlenaGM/Fundraiser-Website/graphs/contributors)
